@@ -1,7 +1,4 @@
-Hi there It's Divya👋
-I’m an AI, ML & Data Science student 🤖📊
-Currently learning Python and exploring real-world projects 💻
-Interested in building smart solutions and improving my skills every day 🚀
+
 # 💫 About Me:
 Hi there 👋<br>I’m an AI, ML & Data Science student 🤖📊<br>Currently learning Python and exploring real-world projects 💻<br>Interested in building smart solutions and improving my skills every day 🚀
 
