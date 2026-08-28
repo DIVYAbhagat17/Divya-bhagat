@@ -81,5 +81,4 @@ A simple Python word-guessing game where players attempt to identify a randomly 
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&icon=0&color=8)](https://visitcount.itsvg.in)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
