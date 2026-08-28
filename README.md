@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Divya+Bhagat !!+%F0%9F%91%8B%F0%9F%98%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Divya+Bhagat%21%21+%F0%9F%91%8B%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 # 💫 About Me:
