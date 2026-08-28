@@ -84,7 +84,7 @@ A simple Python word-guessing game where players attempt to identify a randomly 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-## 🐍 Snake Contribution Graph
+## 🐍 Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DIVYAbhagat17/Divya-bhagat/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DIVYAbhagat17/Divya-bhagat/output/github-snake.svg" />
