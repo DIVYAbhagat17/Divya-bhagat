@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Divya Bhagat 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Divya+Bhagat+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
 
 # 💫 About Me:
 Hi there 👋<br>
