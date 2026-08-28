@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=800&color=2E8B57&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I'm+Divya+Bhagat;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Divya+Bhagat+%F0%9F%91%8B%F0%9F%98%8A" alt="Typing SVG" />
 </h1>
 
 # 💫 About Me:
