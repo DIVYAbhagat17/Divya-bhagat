@@ -85,10 +85,9 @@ A simple Python word-guessing game where players attempt to identify a randomly 
 
 ---
 ## 🐍 Snake Contribution Graph
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DIVYAbhagat17/DIVYAbhagat17/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DIVYAbhagat17/DIVYAbhagat17/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DIVYAbhagat17/DIVYAbhagat17/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DIVYAbhagat17/Divya-bhagat/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DIVYAbhagat17/Divya-bhagat/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DIVYAbhagat17/Divya-bhagat/output/github-snake.svg" />
 </picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
